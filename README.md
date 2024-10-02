@@ -39,7 +39,7 @@ Key areas of focus include:
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. The `kiva_mpi_region_locations` dataset is being kept [here](https://github.com/vladvintenbakh/KivaAnalytics/blob/main/kiva_mpi_region_locations.csv) within this repo. Another dataset (`kiva_loans.csv`) can be downloaded from [Kaggle](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding/download). The datasets used in this project were sourced from Kiva's open data repository and are publicly accessible.
+2. The `kiva_mpi_region_locations.csv` dataset is being kept [here](https://github.com/vladvintenbakh/KivaAnalytics/blob/main/kiva_mpi_region_locations.csv) within this repo. Another dataset (`kiva_loans.csv`) can be downloaded from [Kaggle](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding/download). The datasets used in this project were sourced from Kiva's open data repository and are publicly accessible.
 3. The primary Jupyter notebook for the project is being kept [here](https://github.com/vladvintenbakh/KivaAnalytics/blob/main/Kiva_EDA.ipynb).
 4. Install the dependencies listed in `requirements.txt` and run the notebook.
 
